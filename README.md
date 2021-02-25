@@ -1,5 +1,5 @@
 # Machine-Learning-Algorithms-from-Scratch
 
-* Linear regression
-* Logistic regression
-* 
+1 Linear regression
+1 Logistic regression
+
